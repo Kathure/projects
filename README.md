@@ -10,7 +10,7 @@ Projects for my portfolio
       4. Contact page
     
     ######Tools : Foundation
-    ######Contributors: Eliazabeth Kathure
+    ######Contributors: Elizabeth Kathure
 
 2. [Nurture](https://github.com/Kathure/nurture/) Front End
     ######Project Details : Website with 
