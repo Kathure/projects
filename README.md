@@ -36,37 +36,37 @@ Projects for my portfolio
 
 ##Android 
 
-1. [Charged](https://github.com/Kathure/Charged/) 
+1. [Music](https://github.com/Kathure/music/) 
     
-    ######Project Details : Android App Ui for Charged app
+    ######Project Details : Android App that plays music from youtube
     
-    ######Tools : Material Design
+    ######Tools : Material Design, YouTube API library
     
     ######Contributors: Elizabeth Kathure
 
-2. [starWars](https://github.com/Kathure/StarWars/) 
+2. [Chat](https://github.com/Kathure/Chat/) 
     
-    ######Project Details: Android App Ui for App about Star Wars
+    ######Project Details: Android App for instant messaging
     
     ######Features:
         1. Splashscreen
-        2. Navigation Drawer
-        3. Fragments
+        2. Instant Message
+        3. Login
     
-    ######Tools : Material Design, Etsy BLur library
+    ######Tools : Material Design,FireBase
     
     ######Contributors : Elizabeth Kathure
 
-3. [Minions](https://github.com/kathure/Minions/) 
+3. [StopWatch](https://github.com/kathure/stopwatch/) 
     
-    ######Project Details: Android App Ui for App about Minions includes App Intro and YouTube Api
+    ######Project Details: Android StopWatch App
     
     ######Features: 
         1. Splashscreen
-        2. App Intro
-        3. YouTube Player
+        2. StopWatch with start, stop and reset
+        
     
-    ######Tools: Material Design library, App Intro Library, RX Tube library
+    ######Tools: Material Design library, SplashScreen library
     
     ######Contributors: Elizabeth Kathure
 
